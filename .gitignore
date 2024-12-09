@@ -1,0 +1,7 @@
+
+# WordPress
+**/wp-content
+**/import
+
+# Environment
+**/*.env
